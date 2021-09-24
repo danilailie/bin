@@ -1,0 +1,8 @@
+{
+	"editor.renderWhitespace": "all",
+	"editor.formatOnSave": true,
+	"clang-format.executable": "/usr/bin/clang-format-12",
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.tabSize": 8
+}
